@@ -27,7 +27,5 @@ Play the game here: **[Live Link]()*
 - **CSS** – Styling & layout  
 - **JavaScript** – Game logic, DOM manipulation, score updates  
 
----
 
-## 📁 Project Structure
 
