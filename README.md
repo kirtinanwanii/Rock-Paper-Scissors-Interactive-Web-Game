@@ -6,7 +6,7 @@ This project allows players to compete against the computer with real-time resul
 ---
 
 ## 🎮 Live Demo
-Play the game here: **[Live Link]()*
+Play the game here: **[Live Link](https://kirtinanwanii.github.io/Rock-Paper-Scissors-Interactive-Web-Game/)**
 
 ---
 
