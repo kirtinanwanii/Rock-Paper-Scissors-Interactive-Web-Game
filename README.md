@@ -21,7 +21,7 @@ Play the game here: **[Live Link](https://kirtinanwanii.github.io/Rock-Paper-Sci
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML** – Page structure  
 - **CSS** – Styling & layout  
