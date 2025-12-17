@@ -5,19 +5,19 @@ This project allows players to compete against the computer with real-time resul
 
 ---
 
-## 🎮 Live Demo
+## Live Demo
 Play the game here: **[Live Link](https://kirtinanwanii.github.io/Rock-Paper-Scissors-Interactive-Web-Game/)**
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔹 Player vs Computer gameplay  
-- 🔹 Randomized computer moves  
-- 🔹 Instant winner detection (JS logic)  
-- 🔹 Live score tracking  
-- 🔹 Clean, responsive user interface  
-- 🔹 Simple and beginner-friendly code structure  
+- Player vs Computer gameplay  
+- Randomized computer moves  
+- Instant winner detection (JS logic)  
+- Live score tracking  
+-  Clean, responsive user interface  
+-  Simple and beginner-friendly code structure  
 
 ---
 
